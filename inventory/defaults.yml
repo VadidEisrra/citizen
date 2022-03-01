@@ -1,0 +1,7 @@
+---
+user: nornir
+passwd: ATd35/S[;mfURA>_
+
+netconf_port: 830
+
+candidate_dir: ~/.citizen/candidate

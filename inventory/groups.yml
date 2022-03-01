@@ -1,0 +1,31 @@
+---
+pop_LAB:
+    oob:
+    subnet:
+    devices:
+        ce1.lab
+        ce2.lab
+        pe1.lab
+        pe2.lab
+        pe3.lab
+        pe4.lab
+        p1.lab
+        p2.lab
+        rr1.lab
+        rr2.lab
+        br3.lab
+        br4.lab
+
+model_VQFX10K:
+    stable:
+        os_major: 18.x
+        os_minor: 18.4
+        os_version: 18.4R2-S2.3
+
+model_XRV:
+    stable:
+        os_major: 6.x
+        os_minor: 6.3
+        os_version: 6.3.1
+        os_package: xrvr-os-mbi-6.3.1/mbixrvr-rp.vm
+        iso_file: iosxrv-demo-6.3.1.ova
